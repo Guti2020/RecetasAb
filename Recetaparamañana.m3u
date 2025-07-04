@@ -1,0 +1,371 @@
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200945319.png",TV Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca1.png",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas -1
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/415380.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png",Imagen TV
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278343.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278329.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png",Azteca 7
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241992.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal8.png",Canal 8
+http://norfujh.top:8080/11169502464600/81695024646325/52498
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Nu9ve 
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278360.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png",Canal Once
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47592.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1728970587421.png",Telemax 
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158640.m3u8
+
+#EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2014.png",Canal 14
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198043519.png",Azteca Internacional
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/186631.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198010408.png",AZ Corazon
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/53052.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png",AZ Clic!
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9463.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1720833303547.png",Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png",Canal 26
+http://norfujh.top:8080/11169502464600/81695024646325/52499
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/ingeniotv.png",Ingenio TV
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canaljudicial.png",Canal Judicial
+http://norfujh.top:8080/11169502464600/81695024646325/52500
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mexiquice.png",Mexiquence
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/adn40-mx.png",ADN 40
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/52967.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Milenio%20Television.png",Milenio Television
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://andresvelazquez.com/wp-content/uploads/2015/03/excelsior-tv-redes.png",Excelsior TV
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/56215.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Foro%20TV.png",Foro TV
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241994.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png",Teleformula
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47591.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cnnenespanol.png",CNN En Español
+http://norfujh.top:8080/11169502464600/81695024646325/52504
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/telenovelas.png",Telenovelas
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/108594.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/unicable-mx.png",Unicable
+http://45.228.234.173:9999/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/latino/univision.png",Univision
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/184122.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/9/9a/TelemundoInt2018.png",Telemundo
+http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11877.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png",Baby Tv
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/56214.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/boomerang.png",Boomerang
+http://norfujh.top:8080/11169502464600/81695024646325/18532
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",Cartoon Network
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/211218.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cartoonito-mx.png",Cartoonito
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/54405.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png",Disney JR
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/53062.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/disneychannel.png",Disney Channel
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/211237.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoverykids.png",Discovery Kids
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439758.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png",Nick 2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9424.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nickjr.png",Nick JR
+http://45.228.234.173:9999/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nickelodeon.png",Nickelodeon
+http://45.228.234.173:9999/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nicktoons.png",Nicktoons
+http://norfujh.top:8080/11169502464600/81695024646325/52564
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png",ToonCast
+http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/17783.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/amc.png",AMC
+http://45.228.234.173:9999/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/axn.png",AXN
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241995.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/de-pelicula-mx.png",De Pelicula
+http://45.228.234.173:9999/play/a043/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinecanal.png",Cinecanal
+http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11663.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinemax.png",Cinemax
+http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11672.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1720842538238.png",Star Channel
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158692.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/fx.png",FX
+http://45.228.234.173:9999/play/a08x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-mx.png",Golden
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/242027.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-edge-mx.png",Golden Edge
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9505.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-plus-mx.png", Golden Plus
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9496.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png",HBO
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/242029.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png",HBO 2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/159126.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Multipremier_logo.svg.png/revision/latest?cb=20170909165432",Multipremier
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/453505.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332",Panico
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/453503.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/paramountchannel.png",Paramount Channel
+http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12481.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/sonychannel.png",Sony
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/space.png",Space
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278516.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/studiouniversal.png",Studio Universal
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278518.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png",TNT
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278520.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/542720.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tntseries.png",TNT Series
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278443.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/universalchannel.png",Universal Channel
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278449.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576555.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/filmarts.png",Film & Arts
+http://45.228.234.173:9999/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Star-TVE-logo.png",Star TVE
+http://norfujh.top:8080/11169502464600/81695024646325/52571
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/syfy.png",SYFY
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/54502.ts
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tcm.png",TCM
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439810.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png",A&E
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/186628.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/animalplanet.png",Animal Planet
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/229242.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoverychannel.png",Discovery Channel
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9520.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoverycivilization.png",Discovery Civilization
+http://norfujh.top:8080/11169502464600/81695024646325/52509
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoveryhomehealth.png",Discovery H&H
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439759.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoveryscience.png",Discovery Science
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/36466.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoverytheater.png",Discovery Theater
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439786.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoveryturbo.png",Discovery Turbo
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/54283.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoveryworld.png",Discovery World
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/53077.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/historychannel.png",History
+http://45.228.234.173:9999/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png",History 2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/105685.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png",Investigtion Discovery
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439789.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/natgeo.png",Nat Geo
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/242015.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/natgeowild.png",Nat Geo Wild
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/452237.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tlc.png",TLC
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/19596.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/dwenglish.png",DW
+http://norfujh.top:8080/11169502464600/81695024646325/52519
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/distrito-comedia-mx.png",Distrito Comedia
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9412.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/latino/comedycentral.png",Comedy Central
+http://45.228.234.173:9999/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/eentertainmenttv.png",E! Entertainment
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241998.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/elgourmet.png",EL GOURMET
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9408.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/europaeuropa.png",Europa Europa
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/473708.M3U8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/foodnetwork.png",Food Network
+http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16287.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/holatv.png",Hola TV
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278398.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/lifetime.png",Lifetime
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/19536.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/aymsports.png",AYM Sports
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9540.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png",Claro Sports
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/164262.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png",Claro Sports 2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/469053.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DirecTV Sports
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/158506.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png",DirecTV Sports 2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/456658.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn.png",ESPN
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9380.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png",ESPN 2
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/518965.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png",ESPN 3
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/40735.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png",ESPN 4
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439801.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espnplus.png",ESPN Extra
+http://norfujh.top:8080/11169502464600/81695024646325/52525
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png",ESPN Premium
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/276163.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326546231.png",Fox Sports
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278597.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326292304.png",Fox Sports 2
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278591.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326445322.png",Fox Sports 3
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278594.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/foxsportspremium.png",Fox Sports Premium
+http://norfujh.top:8080/11169502464600/81695024646325/52603
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/pxsports.png",PX Sports
+http://norfujh.top:8080/11169502464600/81695024646325/52606
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",TUDN
+http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47657.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",TUDN USA
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/166029.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724886609300.png",TVC Deportes
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278565.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/bandamax-mx.png",Bandamax
+http://norfujh.top:8080/11169502464600/81695024646325/52490
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724891711489.png",Exa TV
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278606.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724702342362.png",HTV
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278402.m3u8
+
+#EXTINF:-1 tvg-logo=""tvg-chno=",La Mejor TV
+http://45.228.234.173:9999/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mtv.png",MTV
+http://norfujh.top:8080/11169502464600/81695024646325/52553
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mtvhits.png",MTV Hits
+http://norfujh.top:8080/11169502464600/81695024646325/52554
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mtvlive.png",MTV Live
+http://norfujh.top:8080/11169502464600/81695024646325/52555
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724891939366.png",Telehit
+http://45.228.234.173:9999/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9s380Bz.png",Teleritmo
+http://norfujh.top:8080/11169502464600/81695024646325/52580
+
+#EXTINF:-1 tvg-logo=""tvg-chno=",Video Rola
+http://45.228.234.173:9999/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png",VH1
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9469.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/vh1classic.png",VH1 Classic
+http://norfujh.top:8080/11169502464600/81695024646325/52595
