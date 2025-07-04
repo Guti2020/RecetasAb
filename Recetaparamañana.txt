@@ -191,7 +191,7 @@ http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278443.m3u8
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278449.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16456.m3u8
+http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16455.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/filmarts.png",Film & Arts
 http://45.228.234.173:9999/play/a06n/index.m3u8
