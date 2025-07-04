@@ -19,11 +19,8 @@ http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278329.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png",Azteca 7
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241992.m3u8
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal8.png",Canal 8
-http://norfujh.top:8080/11169502464600/81695024646325/52498.m3u8
-
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Nu9ve 
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278360.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278359.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png",Canal Once
 http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47592.m3u8
@@ -46,14 +43,8 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9463.m3u8
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1720833303547.png",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png",Canal 26
-http://norfujh.top:8080/11169502464600/81695024646325/52499.m3u8
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/ingeniotv.png",Ingenio TV
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canaljudicial.png",Canal Judicial
-http://norfujh.top:8080/11169502464600/81695024646325/52500.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mexiquice.png",Mexiquence
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -72,9 +63,6 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241994.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png",Teleformula
 http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47591.m3u8
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cnnenespanol.png",CNN En Español
-http://norfujh.top:8080/11169502464600/81695024646325/52504.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/telenovelas.png",Telenovelas
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/108594.m3u8
