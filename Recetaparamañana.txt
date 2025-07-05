@@ -80,7 +80,7 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11877.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/56214.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/boomerang.png",Boomerang
-http://norfujh.top:8080/11169502464600/81695024646325/18532.m3u8
+http://norfujh.top:8080/11169502464600/81695024646325/18532
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",Cartoon Network
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/211218.m3u8
