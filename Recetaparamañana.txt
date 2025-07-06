@@ -26,7 +26,7 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/415388.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576542.ts
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1728970587421.png",Telemax 
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158640.m3u8
+http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158640.ts
 
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2014.png",Canal 14
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
