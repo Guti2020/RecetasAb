@@ -11,10 +11,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/415380.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png",Imagen TV
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278343.m3u8
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241993.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241991.ts
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241991.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png",Azteca 7
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241992.m3u8
@@ -23,7 +23,7 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241992.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/415388.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png",Canal Once
-http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47592.m3u8
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576542.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1728970587421.png",Telemax 
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/158640.m3u8
