@@ -95,7 +95,7 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/53062.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/211237.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoverykids.png",Discovery Kids
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439758.m3u8
+http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11768.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png",Nick 2
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9424.m3u8
@@ -173,7 +173,7 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/54168.m3u8
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11629.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png",TNT
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9495.m3u8
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47633.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/542720.m3u8
