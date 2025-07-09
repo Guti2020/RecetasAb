@@ -173,7 +173,7 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/54168.m3u8
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11629.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png",TNT
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47633.m3u8
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4103
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/542720.m3u8
