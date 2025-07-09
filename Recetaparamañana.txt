@@ -167,13 +167,13 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12481.m3u8
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/space.png",Space
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278516.m3u8
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/54168.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/studiouniversal.png",Studio Universal
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278518.m3u8
+http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11629.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png",TNT
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9495.ts
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9495.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/542720.m3u8
@@ -182,7 +182,10 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/542720.m3u8
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278443.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/universalchannel.png",Universal Channel
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278449.m3u8
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439738.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png",Universal Cinema
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/185152.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16455.ts
