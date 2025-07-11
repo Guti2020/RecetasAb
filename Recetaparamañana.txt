@@ -11,13 +11,13 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/415380.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png",Imagen TV
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576534.ts
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4149
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241991.m3u8
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4028
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png",Azteca 7
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241992.m3u8
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4027
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Nu9ve 
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/415388.m3u8
@@ -35,7 +35,7 @@ https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/186631.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198010408.png",AZ Corazon
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/53052.m3u8
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4026
 
 #EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png",AZ Clic!
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9463.m3u8
