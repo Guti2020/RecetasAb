@@ -293,22 +293,22 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/164262.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/469053.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DirecTV Sports
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1091366
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/7863
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png",DirecTV Sports 2
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1091367
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/32882
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn.png",ESPN
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155892
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png",ESPN 2
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47611.m3u8
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1118923
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png",ESPN 3
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47612.m3u8
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155903
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png",ESPN 4
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/439801.m3u8
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1238020
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espnplus.png",ESPN Extra
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47609.m3u8
@@ -317,16 +317,16 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47609.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/276163.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326546231.png",Fox Sports
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47605.m3u8
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156755
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326292304.png",Fox Sports 2
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47606.m3u8
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156756
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326445322.png",Fox Sports 3
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47607.m3u8
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156757
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/foxsportspremium.png",Fox Sports Premium
-http://extremevip.xyz:8080/live/ELENAFER/1d0cfccdffe9/47603.m3u8
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1126417
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/pxsports.png",PX Sports
 http://norfujh.top:8080/11169502464600/81695024646325/52606
