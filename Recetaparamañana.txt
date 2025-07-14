@@ -119,7 +119,7 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/17783.m3u8
 http://45.228.234.173:9999/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/axn.png",AXN
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/241995.m3u8
+http://181.78.85.53:9002/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/de-pelicula-mx.png",De Pelicula
 http://181.78.85.53:9002/play/a05l/index.m3u8
