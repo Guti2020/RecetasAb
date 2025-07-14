@@ -32,13 +32,13 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47659.m3u8
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198043519.png",Azteca Internacional
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/186631.m3u8
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47581.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198010408.png",AZ Corazon
 http://tv.nstvlatino.com:8080/mariasuazo/123456/4026
 
 #EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png",AZ Clic!
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9463.m3u8
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47585.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1720833303547.png",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -272,7 +272,7 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47588.m3u8
 http://181.78.85.53:9002/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/europaeuropa.png",Europa Europa
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/473708.M3U8
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/33359
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/foodnetwork.png",Food Network
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/16287.m3u8
@@ -299,7 +299,7 @@ http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1091366
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1091367
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn.png",ESPN
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47687.m3u8
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47610.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png",ESPN 2
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47611.m3u8
