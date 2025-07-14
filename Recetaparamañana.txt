@@ -251,7 +251,7 @@ http://181.78.85.53:9002/play/a03z/index.m3u8
 http://181.78.85.53:9002/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/natgeowild.png",Nat Geo Wild
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/452237.m3u8
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47676.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tlc.png",TLC
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47678.m3u8
@@ -299,7 +299,7 @@ http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1091366
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1091367
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn.png",ESPN
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47610.m3u8
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47687.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png",ESPN 2
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47611.m3u8
