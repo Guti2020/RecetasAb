@@ -173,7 +173,7 @@ http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1188239
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/7436
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/paramountchannel.png",Paramount Channel
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/12481.m3u8
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47686.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/sonychannel.png",Sony
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
@@ -182,7 +182,7 @@ https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 http://181.78.85.53:9002/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/studiouniversal.png",Studio Universal
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11629.m3u8
+http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47685.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png",TNT
 http://181.78.85.53:9002/play/a09e/index.m3u8
