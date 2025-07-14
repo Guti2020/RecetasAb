@@ -239,7 +239,7 @@ http://181.78.85.53:9002/play/a02b/index.m3u8
 http://45.228.234.173:9999/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png",History 2
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47655.m3u8
+http://181.78.85.53:9002/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png",Investigtion Discovery
 http://181.78.85.53:9002/play/a03z/index.m3u8
