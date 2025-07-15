@@ -26,7 +26,7 @@ http://directo.ddns.me:2082/81561747/11112023/67996
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4035
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1728970587421.png",Telemax 
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47659.m3u8
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/131581.ts
 
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2014.png",Canal 14
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
@@ -140,10 +140,10 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11672.m3u8
 http://45.228.234.173:9999/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-mx.png",Golden
-http://181.78.85.53:9002/play/a00w/index.m3u8
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/120092.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-edge-mx.png",Golden Edge
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47631.m3u8
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/120094.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-plus-mx.png", Golden Plus
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1148196
@@ -173,7 +173,7 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/1188239
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/7436
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/paramountchannel.png",Paramount
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47686.m3u8
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/120098.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/paramountchannel.png",Paramount +
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1200683
