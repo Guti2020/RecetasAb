@@ -322,8 +322,8 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/1238020
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espnplus.png",ESPN Extra
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47609.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png",ESPN Premium
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/276163.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png",ESPN Deportes
+https://tvpass.org/live/espn-deportes/hd
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326546231.png",Fox Sports
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1156755
