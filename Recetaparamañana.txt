@@ -104,16 +104,16 @@ http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47661.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4072
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png",Nick 2
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9424.m3u8
+http://directo.ddns.me:2082/81561747/11112023/2479
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nickjr.png",Nick JR
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4194
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nickelodeon.png",Nickelodeon
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/4058
+http://directo.ddns.me:2082/81561747/11112023/2477
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nicktoons.png",Nicktoons
-http://norfujh.top:8080/11169502464600/81695024646325/52564
+#EXTINF:-1 tvg-logo="https://fandetda.files.wordpress.com/2010/04/teenick_logo_2005.png",Teen Nick
+http://directo.ddns.me:2082/81561747/11112023/2474
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png",ToonCast
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4051
@@ -362,7 +362,7 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/1156059
 http://45.228.234.173:9999/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mtv.png",MTV
-http://181.78.85.53:9002/play/a001/index.m3u8
+http://directo.ddns.me:2082/81561747/11112023/2538
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mtvhits.png",MTV Hits
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11832.m3u8
