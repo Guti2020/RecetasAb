@@ -140,7 +140,7 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11672.m3u8
 http://directo.ddns.me:2082/81561747/11112023/50834
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-mx.png",Golden
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/120092.ts
+http://directo.ddns.me:2082/81561747/11112023/2638
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-edge-mx.png",Golden Edge
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/120094.ts
