@@ -221,7 +221,7 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/4049
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1155806
 
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png",A&E
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4037
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/120052.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/animalplanet.png",Animal Planet
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4067
