@@ -136,12 +136,6 @@ http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11663.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinemax.png",Cinemax
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11672.m3u8
 
-#EXTINF:-1 tvg-logo="https://btv.mx/posters/1720842538238.png",Star Channel
-http://181.78.85.53:9002/play/a04j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://btv.mx/posters/1720842538238.png",Star +
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/1200684
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/fx.png",FX
 http://45.228.234.173:9999/play/a08x/index.m3u8
 
@@ -187,11 +181,17 @@ https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/space.png",Space
 http://181.78.85.53:9002/play/a007/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1720842538238.png",Star Channel
+http://181.78.85.53:9002/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1720842538238.png",Star +
+http://tv.nstvlatino.com:8080/johnberrios1/55778899/1200684
+
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/studiouniversal.png",Studio Universal
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4100
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png",TNT
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/4050
+http://tv.nstvlatino.com:8080/johnberrios1/55778899/4103
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/542720.m3u8
