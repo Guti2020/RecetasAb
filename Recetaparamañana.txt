@@ -182,7 +182,7 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/1200683
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/space.png",Space
-http://181.78.85.53:9002/play/a007/index.m3u8
+http://directo.ddns.me:2082/81561747/11112023/2679
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1720842538238.png",Star Channel
 http://181.78.85.53:9002/play/a04j/index.m3u8
@@ -191,7 +191,7 @@ http://181.78.85.53:9002/play/a04j/index.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1200684
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/studiouniversal.png",Studio Universal
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/4100
+http://directo.ddns.me:2082/81561747/11112023/30627
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png",TNT
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4103
@@ -260,7 +260,7 @@ http://181.78.85.53:9002/play/a03z/index.m3u8
 http://181.78.85.53:9002/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/natgeowild.png",Nat Geo Wild
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47676.m3u8
+http://directo.ddns.me:2082/81561747/11112023/2692
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tlc.png",TLC
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4074
