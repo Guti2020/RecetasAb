@@ -20,7 +20,7 @@ http://tv.nstvlatino.com:8080/mariasuazo/123456/1155865
 http://tv.nstvlatino.com:8080/mariasuazo/123456/4027
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Nu9ve 
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/1155855
+http://directo.ddns.me:2082/81561747/11112023/67996
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png",Canal Once
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4035
