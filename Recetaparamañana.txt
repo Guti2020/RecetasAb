@@ -32,7 +32,7 @@ http://flx.lat:8080//live/feltre/tsCmGYDb84KV/131581.ts
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198043519.png",Azteca Mundo
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/4055
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AZ-cinema.png",Azteca Cinema
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4086
@@ -53,7 +53,7 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/adn40-mx.png",ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Milenio%20Television.png",Milenio Television
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
