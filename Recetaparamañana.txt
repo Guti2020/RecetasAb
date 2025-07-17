@@ -17,7 +17,7 @@ http://tv.nstvlatino.com:8080/mariasuazo/123456/4149
 http://tv.nstvlatino.com:8080/mariasuazo/123456/1155865
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png",Azteca 7
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4027
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Nu9ve 
 http://directo.ddns.me:2082/81561747/11112023/67996
