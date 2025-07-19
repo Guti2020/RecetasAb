@@ -185,7 +185,7 @@ https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278515.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1720842538238.png",Star Channel
-http://181.78.85.53:9002/play/a04j/index.m3u8
+http://user.tvcluboficial.com/live/m/m/45.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1720842538238.png",Star +
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1200684
