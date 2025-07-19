@@ -80,7 +80,7 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/3796
 http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11877.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png",Baby Tv
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/4116
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278532.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/boomerang.png",Boomerang
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47648.m3u8
@@ -197,16 +197,16 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/1200684
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278518.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png",TNT
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/4103
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278519.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/542720.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278403.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tntseries.png",TNT Series
-http://181.78.85.53:9002/play/a02y/index.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNTSERIES/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/universalchannel.png",Universal Channel
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/4054
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278450.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png",Universal Cinema
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1119206
