@@ -209,7 +209,7 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/4054
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1119206
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
-http://177.234.230.206:8011/play/a00t/index.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/filmarts.png",Film & Arts
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/3966
