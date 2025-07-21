@@ -68,17 +68,15 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/4029
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4036
 
 #EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/9/9a/TelemundoInt2018.png",Telemundo
-http://planettvweb.com:8091/live/AlejandroAle/YRej9272m/11877.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEMUNDO/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/telenovelas.png",Telenovelas
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4130
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/unicable-mx.png",Unicable
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/1155852
+http://user.tvcluboficial.com/live/m/m/98.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/latino/univision.png",Univision
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/3796
 http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b483eb10a8c99575a9f3a/67.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png",Baby Tv
