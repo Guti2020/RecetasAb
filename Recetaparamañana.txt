@@ -121,17 +121,17 @@ http://45.228.234.173:9999/play/a06l/index.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/axn.png",AXN
 http://181.78.85.53:9002/play/a00n/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinecanal.png",Cinecanal
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278462.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinemax.png",Cinemax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
+
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/de-pelicula-mx.png",De Pelicula
 http://181.78.85.53:9002/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png",De Pelicula Plus
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155788
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinecanal.png",Cinecanal
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278462.m3u8
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinemax.png",Cinemax
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278467.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/fx.png",FX
 http://directo.ddns.me:2082/81561747/11112023/50834
