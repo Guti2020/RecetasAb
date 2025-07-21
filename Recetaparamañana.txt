@@ -311,7 +311,7 @@ http://tv.nstvlatino.com:8080/mildreayala/MA8835869/32882
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png",ESPN 2
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/1118923
+http://user.tvcluboficial.com/live/m/m/531.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png",ESPN 3
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278579.m3u8
