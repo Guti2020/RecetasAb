@@ -92,19 +92,19 @@ http://user.tvcluboficial.com/live/m/m/11.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278538.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png",Disney JR
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278541.m3u8
+http://user.tvcluboficial.com/live/m/m/30.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/1355/LOGO/m/0",Disney XD
 http://user.tvcluboficial.com/live/m/m/31.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoverykids.png",Discovery Kids
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278535.m3u8
+http://user.tvcluboficial.com/live/m/m/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png",Nick 2
 http://user.tvcluboficial.com/live/m/m/645.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nickjr.png",Nick JR
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278545.m3u8
+http://user.tvcluboficial.com/live/m/m/79.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nickelodeon.png",Nickelodeon
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278544.m3u8
@@ -113,7 +113,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278544.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278550.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png",ToonCast
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278551.m3u8
+http://user.tvcluboficial.com/live/m/m/95.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/amc.png",AMC
 http://45.228.234.173:9999/play/a06l/index.m3u8
