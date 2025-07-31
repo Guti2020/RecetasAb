@@ -14,6 +14,8 @@ http://directo.ddns.me:2082/81561747/11112023/54491
 http://tv.nstvlatino.com:8080/mariasuazo/123456/4149
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5
+http://user.tvcluboficial.com/live/m/m/14.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5 Op2
 http://tv.nstvlatino.com:8080/mariasuazo/123456/1155865
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png",Azteca 7
