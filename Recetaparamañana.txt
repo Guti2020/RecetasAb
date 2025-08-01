@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="VIX+ 03 | LEAGUES CUP | Guadalajara vs New York RB | 7.30 PM ET | THU | ESPANOL" tvg-logo="https://cigars.roku.com/v1/resize/377x197/https%3A%2F%2Fimage.roku.com%2Fblog%2Fwp-content%2Fuploads%2F2023%2F05%2FViX-Premium.jpg?quality=90" group-title="VIX+║ DAZN ║ FIFA PLUS",VIX+ 03 | LEAGUES CUP | Guadalajara vs New York RB | 7.30 PM ET | THU | ESPANOL
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/resize/377x197/https%3A%2F%2Fimage.roku.com%2Fblog%2Fwp-content%2Fuploads%2F2023%2F05%2FViX-Premium.jpg?quality=90" group-title=",VIX+ PPV
 http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/288180
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200945319.png",TV Obregon
@@ -111,6 +111,9 @@ http://user.tvcluboficial.com/live/m/m/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png",DreamWorks
 http://fastream.xyz:8080/PPV2023/PPV2023/61598
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png",DreamWorks Op2
+http://fastream.xyz:8080/PPV2023/PPV2023/61597
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png",Nick 2
 http://user.tvcluboficial.com/live/m/m/645.m3u8
