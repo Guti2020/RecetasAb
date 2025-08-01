@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/resize/377x197/https%3A%2F%2Fimage.roku.com%2Fblog%2Fwp-content%2Fuploads%2F2023%2F05%2FViX-Premium.jpg",Leagues Cup
-http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/288180
+http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/288180.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200945319.png",TV Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
