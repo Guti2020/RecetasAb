@@ -1,20 +1,24 @@
-#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/resize/377x197/https%3A%2F%2Fimage.roku.com%2Fblog%2Fwp-content%2Fuploads%2F2023%2F05%2FViX-Premium.jpg?quality=90" group-title=",VIX+ PPV
-http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/288180
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/adn40-mx.png",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200945319.png",TV Obregon
-https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AZ-cinema.png",Azteca Cinema
+http://tv.nstvlatino.com:8080/johnberrios1/55778899/4086
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198010408.png",Azteca Corazon
+http://tv.nstvlatino.com:8080/johnberrios1/55778899/1155857
+
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png",Azteca Clic!
+http://directo.ddns.me:2082/81561747/11112023/2545
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198043519.png",Azteca Mundo
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca1.png",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png",Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas -2
-http://directo.ddns.me:2082/81561747/11112023/54491
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png",Imagen TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4149
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5
 http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/165448
@@ -25,47 +29,14 @@ http://user.tvcluboficial.com/live/m/m/14.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5 Op3
 http://tv.nstvlatino.com:8080/mariasuazo/123456/1155865
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png",Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Nu9ve 
-http://directo.ddns.me:2082/81561747/11112023/67996
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png",Canal Once
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4035
-
-#EXTINF:-1 tvg-logo="https://btv.mx/posters/1728970587421.png",Telemax 
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/131581.ts
 
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2014.png",Canal 14
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198043519.png",Azteca Mundo
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AZ-cinema.png",Azteca Cinema
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/4086
-
-#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198010408.png",AZ Corazon
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/1155857
-
-#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png",AZ Clic!
-http://directo.ddns.me:2082/81561747/11112023/2545
-
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1720833303547.png",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/ingeniotv.png",Ingenio TV
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mexiquice.png",Mexiquence
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/adn40-mx.png",ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Milenio%20Television.png",Milenio Television
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 tvg-logo="https://andresvelazquez.com/wp-content/uploads/2015/03/excelsior-tv-redes.png",Excelsior TV
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576525.ts
@@ -73,14 +44,44 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576525.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Foro%20TV.png",Foro TV
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4029
 
+
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png",Imagen TV
+http://tv.nstvlatino.com:8080/mariasuazo/123456/4149
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/ingeniotv.png",Ingenio TV
+http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas -2
+http://directo.ddns.me:2082/81561747/11112023/54491
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mexiquice.png",Mexiquence
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Milenio%20Television.png",Milenio Television
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Nu9ve 
+http://directo.ddns.me:2082/81561747/11112023/67996
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png",Teleformula
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4036
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1728970587421.png",Telemax 
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/131581.ts
 
 #EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/9/9a/TelemundoInt2018.png",Telemundo
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEMUNDO/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/telenovelas.png",Telenovelas
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4130
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200945319.png",TVP Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/unicable-mx.png",Unicable
 http://user.tvcluboficial.com/live/m/m/98.m3u8
@@ -363,6 +364,9 @@ http://user.tvcluboficial.com/live/m/m/86.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724886609300.png",TVC Deportes
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278563.m3u8
+
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/resize/377x197/https%3A%2F%2Fimage.roku.com%2Fblog%2Fwp-content%2Fuploads%2F2023%2F05%2FViX-Premium.jpg?quality=90" group-title=",VIX+ PPV
+http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/288180
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/bandamax-mx.png",Bandamax
 http://45.228.234.173:9999/play/a04b/index.m3u8
