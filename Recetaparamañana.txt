@@ -365,7 +365,7 @@ http://user.tvcluboficial.com/live/m/m/86.m3u8
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724886609300.png",TVC Deportes
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278563.m3u8
 
-#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/resize/377x197/https%3A%2F%2Fimage.roku.com%2Fblog%2Fwp-content%2Fuploads%2F2023%2F05%2FViX-Premium.jpg?quality=90" group-title=",VIX+ PPV
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/resize/377x197/https%3A%2F%2Fimage.roku.com%2Fblog%2Fwp-content%2Fuploads%2F2023%2F05%2FViX-Premium.jpg",VIX+ PPV
 http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/288180
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/bandamax-mx.png",Bandamax
@@ -391,8 +391,6 @@ http://181.78.85.53:9002/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-MUSIC-TOP.png",Music Top
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1156060
-
-
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724891939366.png",Telehit
 http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47675.m3u8
