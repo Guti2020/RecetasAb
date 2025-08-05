@@ -85,7 +85,7 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas -2
-http://directo.ddns.me:2082/81561747/11112023/54491
+https://live2.saohgdasregions.fun:9091/57_/index.m3u8?token=02151bbaf89ec95036066ec043206eedaf897a6e-44829315e0d070ccfe20def058a3eebf-1754378582-1754356982&remote=177.227.42.188
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mexiquice.png",Mexiquence
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
