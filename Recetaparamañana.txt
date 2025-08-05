@@ -54,9 +54,6 @@ http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/165448
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5 Op2
 http://user.tvcluboficial.com/live/m/m/14.m3u8
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5 Op3
-http://tv.nstvlatino.com:8080/mariasuazo/123456/1155865
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png",Canal Once
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4035
 
@@ -205,6 +202,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278489.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278502.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/789245.png",HBO Family
+http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/2644
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278487.m3u8
 
 #EXTINF:-1 tvg-id="",HBO Xtreme
@@ -254,6 +252,9 @@ http://satk.pro:2082/56983745719w/090525zp/50467
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Op2
+http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/2666
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/filmarts.png",Film & Arts
 http://177.234.230.206:8011/play/a0i8/index.m3u8
