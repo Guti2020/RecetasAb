@@ -19,6 +19,9 @@ http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/495936
 #EXTINF:-1 tvg-logo="https://static-live.nmas.com.mx/nmas-news/styles/corte_16_9/cloud-storage/2025-07/la-casa-de-los-famosos-a-aque-hora-ver_0.jpg?h=920929c4&itok=ulCebBKb",LCDF (SALA)
 http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/495937
 
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png",A más +
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.ts
+
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/adn40-mx.png",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
@@ -34,8 +37,12 @@ http://directo.ddns.me:2082/81561747/11112023/2545
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198043519.png",Azteca Mundo
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198043519.png",Azteca Noticias
+https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.ts
+
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca1.png",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+https://mdstrm.com/live-stream-playlist/5ff463f705082d24310533b1.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
