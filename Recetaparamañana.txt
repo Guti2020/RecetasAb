@@ -96,7 +96,8 @@ http://directo.ddns.me:2082/81561747/11112023/67996
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png",Teleformula
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4036
 
-#EXTINF:-1 tvg-logo="https://btv.mx/posters/1728970587421.png",Telemax 
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1728970587421.png",Telemax
+https://s5.mexside.net:1936/telemax/telemax/chunklist_w519701553.m3u8
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/131581.ts
 
 #EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/9/9a/TelemundoInt2018.png",Telemundo
