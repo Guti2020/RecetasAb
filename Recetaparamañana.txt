@@ -137,10 +137,10 @@ http://user.tvcluboficial.com/live/m/m/31.m3u8
 http://user.tvcluboficial.com/live/m/m/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png",DreamWorks
-http://fastream.xyz:8080/PPV2023/PPV2023/61598
+http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/2476
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png",DreamWorks Op2
-http://fastream.xyz:8080/PPV2023/PPV2023/61597
+http://fastream.xyz:8080/PPV2023/PPV2023/61598
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png",Nick 2
 http://user.tvcluboficial.com/live/m/m/645.m3u8
