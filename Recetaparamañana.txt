@@ -82,7 +82,7 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas -2
-https://live2.saohgdasregions.fun:9091/57_/index.m3u8?token=02151bbaf89ec95036066ec043206eedaf897a6e-44829315e0d070ccfe20def058a3eebf-1754378582-1754356982&remote=177.227.42.188
+http://xpaneltv.com:8080/DaiSeg/987612345/291057
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mexiquice.png",Mexiquence
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -91,7 +91,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Nu9ve 
-http://directo.ddns.me:2082/81561747/11112023/67996
+http://xpaneltv.com:8080/DaiSeg/987612345/291054
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png",Teleformula
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4036
