@@ -158,7 +158,6 @@ http://user.tvcluboficial.com/live/m/m/95.m3u8
 http://45.228.234.173:9999/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/axn.png",AXN
-https://telegratuita.com/cors-proxy.php?url=https%3A%2F%2Fstreamer1.nexgen.bz%2FAXN%2Ftracks-v1a1%2Fmono.ts.m3u8
 http://181.78.85.53:9002/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinecanal.png",Cinecanal
