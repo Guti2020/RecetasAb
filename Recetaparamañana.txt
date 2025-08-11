@@ -173,7 +173,7 @@ http://181.78.85.53:9002/play/a05l/index.m3u8
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155788
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/fx.png",FX
-http://directo.ddns.me:2082/81561747/11112023/50834
+https://streamer1.nexgen.bz/FX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-mx.png",Golden
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
