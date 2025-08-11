@@ -159,7 +159,7 @@ http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414503
 http://45.228.234.173:9999/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/axn.png",AXN
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278394.m3u8
+http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414482
 http://181.78.85.53:9002/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinecanal.png",Cinecanal
