@@ -261,7 +261,8 @@ http://satk.pro:2082/56983745719w/090525zp/50467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Op2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner 2
+http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/7050
 http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/7050
 http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/2666
 
