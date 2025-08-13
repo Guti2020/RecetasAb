@@ -85,6 +85,7 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas -2
+http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/54491
 http://xpaneltv.com:8080/DaiSeg/987612345/291057
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mexiquice.png",Mexiquence
