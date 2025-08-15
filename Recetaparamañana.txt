@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-logo="https://static-live.nmas.com.mx/nmas-news/styles/corte_16_9/cloud-storage/2025-07/la-casa-de-los-famosos-a-aque-hora-ver_0.jpg?h=920929c4&itok=ulCebBKb",LCDF 24/7
-http://fivetv.org:25461/americo/323223/339058
 http://tvlatino.club:2082/premium0059/jFh76XewwZn5/581993.ts
 
 #EXTINF:-1 tvg-logo="https://static-live.nmas.com.mx/nmas-news/styles/corte_16_9/cloud-storage/2025-07/la-casa-de-los-famosos-a-aque-hora-ver_0.jpg?h=920929c4&itok=ulCebBKb",LCDF 24/7
+http://fivetv.org:25461/americo/323223/339058
 http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/495931
 
 #EXTINF:-1 tvg-logo="https://static-live.nmas.com.mx/nmas-news/styles/corte_16_9/cloud-storage/2025-07/la-casa-de-los-famosos-a-aque-hora-ver_0.jpg?h=920929c4&itok=ulCebBKb",LCDF 24/7
