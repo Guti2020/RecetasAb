@@ -56,6 +56,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5
+http://tv.nousiptv.com:8080/@thundertv/8uJjsjE7362/4028
 http://tv.masterplaytv.club:8080/lycarmen66/KAQSocPFMy/114854
 http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/165448
 
@@ -211,6 +212,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278488.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278492.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/789245.png",HBO Family
+http://tv.nousiptv.com:8080/@thundertv/8uJjsjE7362/4017
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278487.m3u8
 http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414465
 
