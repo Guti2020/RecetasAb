@@ -169,6 +169,7 @@ http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414504
 http://45.228.234.173:9999/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/axn.png",AXN
+http://liontv.es:8080/live/9188696216/snj9ze/2f1fa5cb-492a-476f-87e3-de0b78198091.ts
 http://181.78.85.53:9002/play/a00n/index.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/34d556d9-396d-47db-8a3f-662d075170f8.ts
 http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414482
@@ -213,6 +214,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278488.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278492.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/789245.png",HBO Family
+http://liontv.es:8080/live/9188696216/snj9ze/22b34e32-c417-4876-adb4-fb75c67b7808.ts
 http://liontv.es:8080/live/9188696216/snj9ze/517c211e-fa04-464a-8b43-809b7b4b4704.ts
 http://tv.nousiptv.com:8080/@thundertv/8uJjsjE7362/4017
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278487.m3u8
@@ -274,6 +276,7 @@ http://satk.pro:2082/56983745719w/090525zp/50467
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner 2
+http://liontv.es:8080/live/9188696216/snj9ze/bf12f692-b58c-4952-bc42-5620ddcfd7cf.ts
 http://liontv.es:8080/live/9188696216/snj9ze/65eca945-cca6-4c6b-a33b-e26c86b787cc.ts
 http://tv.nstvlatino.com:8080/mariasuazo/123456/4053
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/7050
