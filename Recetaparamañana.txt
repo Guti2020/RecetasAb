@@ -2,7 +2,7 @@
 https://drrh37sqosrl.premilkyway.com/hls2/01/11539/mwgm8bib7dwd_,l,n,h,.urlset/master.m3u8?t=CRsKgeF_uMXKOVzBrWLgDQB20anfz1ZWqnzE9ePrX_Q&s=1755476847&e=129600&f=57696034&srv=ts09ruf2imyzcv&i=0.4&sp=500&p1=ts09ruf2imyzcv&p2=ts09ruf2imyzcv&asn=13999
 
 #EXTINF:-1 tvg-logo="https://static-live.nmas.com.mx/nmas-news/styles/corte_16_9/cloud-storage/2025-07/la-casa-de-los-famosos-a-aque-hora-ver_0.jpg?h=920929c4&itok=ulCebBKb",LCDF 24/7
-
+http://liontv.es:8080/live/9188696216/snj9ze/385cb46b-65cf-469a-ba14-976e22010c9f.ts
 http://tvlatino.club:2082/premium0059/jFh76XewwZn5/581993.ts
 
 #EXTINF:-1 tvg-logo="https://static-live.nmas.com.mx/nmas-news/styles/corte_16_9/cloud-storage/2025-07/la-casa-de-los-famosos-a-aque-hora-ver_0.jpg?h=920929c4&itok=ulCebBKb",LCDF 24/7
@@ -62,6 +62,8 @@ http://tv.masterplaytv.club:8080/lycarmen66/KAQSocPFMy/114854
 http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/165448
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5 Op2
+http://liontv.es:8080/live/9188696216/snj9ze/fcbfe002-a9d7-45f0-a968-15f4a38e56b0.ts
+http://liontv.es:8080/live/9188696216/snj9ze/cfc443c8-ff5e-4cb5-8a96-ec6c0601f6bc.ts
 http://user.tvcluboficial.com/live/m/m/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png",Canal Once
@@ -79,19 +81,17 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576525.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Foro%20TV.png",Foro TV
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4029
 
-
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png",Imagen TV
 http://tv.nstvlatino.com:8080/mariasuazo/123456/4149
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/ingeniotv.png",Ingenio TV
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas -2
+http://liontv.es:8080/live/9188696216/snj9ze/a525470c-0c78-4998-922c-4f64dc73a847.ts
 http://tv.masterplaytv.club:8080/lycarmen66/KAQSocPFMy/87583
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/54491
 http://xpaneltv.com:8080/DaiSeg/987612345/291057
@@ -142,9 +142,6 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278538.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png",Disney JR
 http://user.tvcluboficial.com/live/m/m/30.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/1355/LOGO/m/0",Disney XD
-http://user.tvcluboficial.com/live/m/m/31.m3u8
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoverykids.png",Discovery Kids
 http://user.tvcluboficial.com/live/m/m/25.m3u8
 
@@ -172,8 +169,10 @@ http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414504
 http://45.228.234.173:9999/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/axn.png",AXN
-http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414482
 http://181.78.85.53:9002/play/a00n/index.m3u8
+http://liontv.es:8080/live/9188696216/snj9ze/34d556d9-396d-47db-8a3f-662d075170f8.ts
+http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414482
+
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinecanal.png",Cinecanal
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278462.m3u8
@@ -188,6 +187,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
 http://181.78.85.53:9002/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png",De Pelicula Plus
+http://liontv.es:8080/live/9188696216/snj9ze/592962c5-d628-4c9a-9582-48abf34cbc7c.ts
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155788
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/fx.png",FX
@@ -274,6 +274,7 @@ http://satk.pro:2082/56983745719w/090525zp/50467
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner 2
+http://liontv.es:8080/live/9188696216/snj9ze/65eca945-cca6-4c6b-a33b-e26c86b787cc.ts
 http://tv.nstvlatino.com:8080/mariasuazo/123456/4053
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/7050
 http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/7050
