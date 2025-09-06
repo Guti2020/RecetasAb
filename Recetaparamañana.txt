@@ -296,7 +296,7 @@ http://104.238.222.251:8989/278472_.m3u8
 http://satk.pro:2082/56983745719w/090525zp/50467
 
 #EXTINF:-1 tvg-logo="",Universal Comedy
-http://104.238.222.251:8989/278473_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278473.m3u8
 
 #EXTINF:-1 tvg-logo="",Universal Crime
 http://104.238.222.251:8989/278474_.m3u8
