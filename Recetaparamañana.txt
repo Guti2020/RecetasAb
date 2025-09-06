@@ -147,6 +147,9 @@ http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b48
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png",Baby Tv
 http://user.tvcluboficial.com/live/m/m/7.m3u8
 
+#EXTINF:-1 tvg-logo="",BitMe
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278522.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",Cartoon Network
 http://user.tvcluboficial.com/live/m/m/17.m3u8
 
@@ -205,6 +208,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
 http://181.78.85.53:9002/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png",De Pelicula Plus
+http://104.238.222.251:8989/278470_.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/592962c5-d628-4c9a-9582-48abf34cbc7c.ts
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155788
 
@@ -231,10 +235,10 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278488.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278492.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/789245.png",HBO Family
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278497.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/22b34e32-c417-4876-adb4-fb75c67b7808.ts
 http://liontv.es:8080/live/9188696216/snj9ze/517c211e-fa04-464a-8b43-809b7b4b4704.ts
 http://tv.nousiptv.com:8080/@thundertv/8uJjsjE7362/4017
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278487.m3u8
 http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414465
 
 
@@ -287,7 +291,20 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNTSERIES/40-hls/live-medi
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278450.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png",Universal Cinema
+http://104.238.222.251:8989/278472_.m3u8
 http://satk.pro:2082/56983745719w/090525zp/50467
+
+#EXTINF:-1 tvg-logo="",Universal Comedy
+http://104.238.222.251:8989/278473_.m3u8
+
+#EXTINF:-1 tvg-logo="",Universal Crime
+http://104.238.222.251:8989/278474_.m3u8
+
+#EXTINF:-1 tvg-logo="",Universal Premiere
+http://104.238.222.251:8989/278476_.m3u8
+
+#EXTINF:-1 tvg-logo="",Universal Reality
+http://104.238.222.251:8989/278478_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
