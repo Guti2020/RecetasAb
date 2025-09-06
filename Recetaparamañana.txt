@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="",Superman (2025) HD 
-https://drrh37sqosrl.premilkyway.com/hls2/01/11539/mwgm8bib7dwd_,l,n,h,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="",Yu-Gi-Oh! (24/7) 
+https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
 #EXTINF:-1 tvg-logo="https://static-live.nmas.com.mx/nmas-news/styles/corte_16_9/cloud-storage/2025-07/la-casa-de-los-famosos-a-aque-hora-ver_0.jpg?h=920929c4&itok=ulCebBKb",LCDF 24/7
 http://fivetv.org:25461/americo/323223/339058
@@ -65,11 +65,11 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278329.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/cfc443c8-ff5e-4cb5-8a96-ec6c0601f6bc.ts
 http://fivetv.org:25461/americo/323223/186810
 http://tv.nousiptv.com:8080/@thundertv/8uJjsjE7362/4028
 http://tv.masterplaytv.club:8080/lycarmen66/KAQSocPFMy/114854
-http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/165448
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5 Op2
 http://liontv.es:8080/live/9188696216/snj9ze/fcbfe002-a9d7-45f0-a968-15f4a38e56b0.ts
@@ -89,10 +89,10 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576525.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Foro%20TV.png",Foro TV
-http://tv.nstvlatino.com:8080/johnberrios1/55778899/4029
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png",Imagen TV
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4149
+https://stitcher.pluto.tv/stitch/hls/channel/64e35aff6b1fdb0008ea8441/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/ingeniotv.png",Ingenio TV
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
@@ -116,6 +116,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f
 http://xpaneltv.com:8080/DaiSeg/987612345/291054
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png",Teleformula
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4036
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1728970587421.png",Telemax
