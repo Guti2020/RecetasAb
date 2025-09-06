@@ -80,6 +80,7 @@ http://user.tvcluboficial.com/live/m/m/14.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4035
 
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2014.png",Canal 14
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278323.m3u8
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1720833303547.png",Canal 22
@@ -101,6 +102,7 @@ http://playtv.one:8080/live/as2cds/3S9ghjnqN8/9457.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas -2
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278347.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/a525470c-0c78-4998-922c-4f64dc73a847.ts
 http://tv.masterplaytv.club:8080/lycarmen66/KAQSocPFMy/87583
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/54491
@@ -112,8 +114,12 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Milenio%20Television.png",Milenio Television
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Nu9ve 
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Nu9ve
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278359.m3u8
 http://xpaneltv.com:8080/DaiSeg/987612345/291054
+
+#EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Pasiones
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278403.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png",Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
@@ -302,6 +308,9 @@ http://185.189.225.150:85/syfy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tcm.png",TCM
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278406.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tlc.png",TLC
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278407.m3u8
 
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png",A&E
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278389.m3u8
