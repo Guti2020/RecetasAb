@@ -71,11 +71,6 @@ http://fivetv.org:25461/americo/323223/186810
 http://tv.nousiptv.com:8080/@thundertv/8uJjsjE7362/4028
 http://tv.masterplaytv.club:8080/lycarmen66/KAQSocPFMy/114854
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png",Canal 5 Op2
-http://liontv.es:8080/live/9188696216/snj9ze/fcbfe002-a9d7-45f0-a968-15f4a38e56b0.ts
-http://liontv.es:8080/live/9188696216/snj9ze/cfc443c8-ff5e-4cb5-8a96-ec6c0601f6bc.ts
-http://user.tvcluboficial.com/live/m/m/14.m3u8
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png",Canal Once
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4035
 
@@ -144,6 +139,9 @@ http://user.tvcluboficial.com/live/m/m/98.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/latino/univision.png",Univision
 http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b483eb10a8c99575a9f3a/67.m3u8
+
+#EXTINF:-1 tvg-logo="",Adult Swim
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278390.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png",Baby Tv
 http://user.tvcluboficial.com/live/m/m/7.m3u8
