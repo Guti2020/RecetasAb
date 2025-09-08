@@ -141,7 +141,7 @@ http://user.tvcluboficial.com/live/m/m/98.m3u8
 http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b483eb10a8c99575a9f3a/67.m3u8
 
 #EXTINF:-1 tvg-logo="",Adult Swim
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278390.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278391.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png",Baby Tv
 http://user.tvcluboficial.com/live/m/m/7.m3u8
