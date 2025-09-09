@@ -322,12 +322,7 @@ http://104.238.222.251:8989/278478_.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner 2
-http://liontv.es:8080/live/9188696216/snj9ze/bf12f692-b58c-4952-bc42-5620ddcfd7cf.ts
-http://liontv.es:8080/live/9188696216/snj9ze/65eca945-cca6-4c6b-a33b-e26c86b787cc.ts
-http://tv.nstvlatino.com:8080/mariasuazo/123456/4053
-http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/7050
-http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/7050
-http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/2666
+https://user.tvcluboficial.com/live/m/m/102.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/filmarts.png",Film & Arts
 http://177.234.230.206:8011/play/a0i8/index.m3u8
