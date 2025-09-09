@@ -175,7 +175,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278538.m3u8
 http://user.tvcluboficial.com/live/m/m/30.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoverykids.png",Discovery Kids
-http://user.tvcluboficial.com/live/m/m/25.m3u8
+http://user.tvcluboficial.com/live/m/m/641.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png",DreamWorks
 http://canal-pro.xyz:8080/09sERgio940961/08cuEvAs734820/61598
