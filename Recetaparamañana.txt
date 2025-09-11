@@ -255,6 +255,8 @@ http://liontv.es:8080/live/9188696216/snj9ze/517c211e-fa04-464a-8b43-809b7b4b470
 http://tv.nousiptv.com:8080/@thundertv/8uJjsjE7362/4017
 http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414465
 
+#EXTINF:-1 tvg-id="",HBO Mundi
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278501.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO Plus
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278489.m3u8
@@ -481,7 +483,7 @@ https://user.tvcluboficial.com/live/m/m/8.m3u8
 http://45.228.234.173:9999/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724891711489.png",Exa TV
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278606.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278606.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724702342362.png",HTV
 https://user.tvcluboficial.com/live/m/m/66.m3u8
@@ -499,7 +501,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278602.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mtvlive.png",MTV Live
 http://181.78.85.53:9002/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-MUSIC-TOP.png",Music Top
+#EXTINF:-1 tvg-logo="",Music Top
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1156060
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724891939366.png",Telehit
