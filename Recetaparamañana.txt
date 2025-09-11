@@ -364,6 +364,9 @@ http://user.tvcluboficial.com/live/m/m/23.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoveryhomehealth.png",Discovery H&H
 http://user.tvcluboficial.com/live/m/m/24.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png",Discovery ID
+http://user.tvcluboficial.com/live/m/m/68.m3u8
+
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoveryscience.png",Discovery SCI
 http://user.tvcluboficial.com/live/m/m/26.m3u8
 
@@ -384,9 +387,6 @@ http://user.tvcluboficial.com/live/m/m/67.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png",History 2
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278629.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png",Discovery ID
-http://user.tvcluboficial.com/live/m/m/68.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/natgeo.png",Nat Geo
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278637.m3u8
