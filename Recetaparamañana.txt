@@ -282,7 +282,7 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/1200683
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/space.png",Space
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278515.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278516.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1720842538238.png",Star Channel
 http://177.234.230.206:8011/play/a0on/index.m3u8
