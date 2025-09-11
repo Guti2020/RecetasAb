@@ -268,6 +268,9 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278507.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Multipremier_logo.svg.png/revision/latest?cb=20170909165432",Multipremier
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278510.m3u8
 
+#EXTINF:-1 tvg-logo="", MX Nuestro Cine
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278325.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332",Panico
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278511.m3u8
 
@@ -474,12 +477,14 @@ http://user.tvcluboficial.com/live/m/m/86.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278563.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/bandamax-mx.png",Bandamax
+https://user.tvcluboficial.com/live/m/m/8.m3u8
 http://45.228.234.173:9999/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724891711489.png",Exa TV
 http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278606.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724702342362.png",HTV
+https://user.tvcluboficial.com/live/m/m/66.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1156059
 
 #EXTINF:-1 tvg-logo=""tvg-chno=",La Mejor TV
@@ -506,17 +511,17 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278612.m3u8
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724891939366.png",Telehit Urbano
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/3960
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9s380Bz.png",Teleritmo
+#EXTINF:-1 tvg-logo="",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-LATINA-mus.png",Trace Latina
+#EXTINF:-1 tvg-logo="",Trace Latina
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1116300
 
-#EXTINF:-1 tvg-logo=""tvg-chno=",Video Rola
+#EXTINF:-1 tvg-logo="",Video Rola
 http://45.228.234.173:9999/play/a06k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png",VH1
-http://alexyatvcasa.xyz:8080/live/Geo/QcyGZgZrR2Q8/47663.m3u8
+#EXTINF:-1 tvg-logo="",VH1
+https://user.tvcluboficial.com/live/m/m/101.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/vh1classic.png",VH1 Classic
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4133
