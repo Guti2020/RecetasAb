@@ -96,9 +96,6 @@ https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1720833303547.png",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://andresvelazquez.com/wp-content/uploads/2015/03/excelsior-tv-redes.png",Excelsior TV
-http://playtv.one:8080/live/as2cds/3S9ghjnqN8/576525.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Foro%20TV.png",Foro TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
@@ -141,6 +138,7 @@ http://flx.lat:8080//live/feltre/tsCmGYDb84KV/131581.ts
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEMUNDO/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/telenovelas.png",Telenovelas
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278367.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4130
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200945319.png",TVP Obregon
