@@ -112,6 +112,12 @@ http://tv.masterplaytv.club:8080/lycarmen66/KAQSocPFMy/87583
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/54491
 http://xpaneltv.com:8080/DaiSeg/987612345/291057
 
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas -
+http://alfatv.lat:2082/play/TbcehZGclh8WNQYvk-ZvTouoDoAHPzJiY694s2qWTzPP1BlmvgY80qFhnbb7BtUU/ts
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas -
+http://alfatv.lat:2082/play/TbcehZGclh8WNQYvk-ZvTouoDoAHPzJiY694s2qWTzOuBkAZdyz5fFW5zcTwJrNr/ts
+
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mexiquice.png",Mexiquence
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
