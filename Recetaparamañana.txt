@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="",Canelo Vs.Crawford
+#EXTINF:-1 tvg-logo="",Canelo Vs. Crawford
 https://rm8zcvk3.fubohd.com/eventos3/mono.m3u8?token=3b22887c6a7c19f7b7ba838b108a57744a7a4089-44-1757840697-1757822697
 
 #EXTINF:-1 tvg-logo="",Caballeros Del Zodiaco 24/7
