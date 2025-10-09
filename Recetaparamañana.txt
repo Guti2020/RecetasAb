@@ -134,6 +134,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278524.m3u8
 http://user.tvcluboficial.com/live/m/m/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cartoonito-mx.png",Cartoonito
+http://177.234.230.206:8011/play/a0fr/index.m3u8
 http://user.tvcluboficial.com/live/m/m/11.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/disneychannel.png",Disney
