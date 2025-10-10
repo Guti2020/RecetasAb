@@ -441,7 +441,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278582.m3u8
 https://tvpass.org/live/espn-deportes/hd
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326546231.png",Fox Sports
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278590.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
 http://user.tvcluboficial.com/live/m/m/527.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326292304.png",Fox Sports 2
