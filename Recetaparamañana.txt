@@ -37,9 +37,11 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4086
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198010408.png",Azteca Corazon
+http://45.186.106.220:5550/play/a00v/index.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1155857
 
 #EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png",Azteca Clic!
+http://45.186.106.220:5550/play/a01s/index.m3u8
 http://directo.ddns.me:2082/81561747/11112023/2545
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724198043519.png",Azteca Mundo
@@ -263,6 +265,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278511.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278512.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/paramountchannel.png",Paramount +
+http://181.78.4.250:8098/play/a079/index.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1200683
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/sonychannel.png",Sony
@@ -287,6 +290,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278519.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278403.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tntseries.png",TNT Series
+http://181.78.4.250:8098/play/a061/index.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNTSERIES/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/universalchannel.png",Universal Channel
@@ -380,6 +384,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278629.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278637.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/natgeowild.png",Nat Geo Wild
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?=%2F.ts
 http://user.tvcluboficial.com/live/m/m/77.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tlc.png",TLC
