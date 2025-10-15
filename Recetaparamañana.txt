@@ -1,17 +1,28 @@
 #EXTINF:-1 tvg-logo="",Caballeros Del Zodiaco 24/7
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169799
 https://user.tvcluboficial.com/live/m/m/427.m3u8
 
 #EXTINF:-1 tvg-logo="",Chapulin Colorado 24/7
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/72328
 https://user.tvcluboficial.com/live/m/m/418.m3u8
 
 #EXTINF:-1 tvg-logo="",Chespirito 24/7
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/51343
 https://user.tvcluboficial.com/live/m/m/417.m3u8
 
-#EXTINF:-1 tvg-logo="",Dragon Ball Super 24/7
+#EXTINF:-1 tvg-logo="",Dragon Ball Z F 24/7
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169802
 https://user.tvcluboficial.com/live/m/m/424.m3u8
 
-#EXTINF:-1 tvg-logo="",Dragon Ball Z 24/7
+#EXTINF:-1 tvg-logo="",Dragon Ball Z M 24/7
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169803
 https://user.tvcluboficial.com/live/m/m/329.m3u8
+
+#EXTINF:-1 tvg-logo="",El Chavo Del 8 24/7
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/531614
+
+#EXTINF:-1 tvg-logo="",El Juego Del Calamar 24/7
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/236453
 
 #EXTINF:-1 tvg-logo="",Yu-Gi-Oh! 24/7
 https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
@@ -134,6 +145,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278524.m3u8
 http://user.tvcluboficial.com/live/m/m/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cartoonito-mx.png",Cartoonito
+http://canal-pro.xyz:8080/09sERgio940961/08cuEvAs734820/61603
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278526.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/disneychannel.png",Disney
@@ -148,9 +160,10 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278536.m3u8
 http://user.tvcluboficial.com/live/m/m/641.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png",DreamWorks
-http://canal-pro.xyz:8080/09sERgio940961/08cuEvAs734820/61598
+http://canal-pro.xyz:8080/09sERgio940961/08cuEvAs734820/61596
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png",Nick 2
+
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278546.m3u8
 http://user.tvcluboficial.com/live/m/m/645.m3u8
 
@@ -179,8 +192,6 @@ http://liontv.es:8080/live/9188696216/snj9ze/2f1fa5cb-492a-476f-87e3-de0b7819809
 http://181.78.85.53:9002/play/a00n/index.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/34d556d9-396d-47db-8a3f-662d075170f8.ts
 
-
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinecanal.png",Cinecanal
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278462.m3u8
 
@@ -194,13 +205,14 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
 http://181.78.85.53:9002/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png",De Pelicula Plus
-http://104.238.222.251:8989/278470_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278470.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/592962c5-d628-4c9a-9582-48abf34cbc7c.ts
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155788
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/fx.png",FX
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FXHD/40-hls/live-media.m3u8
 https://streamer1.nexgen.bz/FX/index.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FXHD/40-hls/live-media.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-mx.png",Golden
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
@@ -428,6 +440,7 @@ http://user.tvcluboficial.com/live/m/m/667.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png",ESPN 2
+http://canal-pro.xyz:8080/09sERgio940961/08cuEvAs734820/509
 http://177.234.230.206:8011/play/a0kg/index.m3u8
 http://user.tvcluboficial.com/live/m/m/531.m3u8
 
