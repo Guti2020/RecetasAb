@@ -67,6 +67,7 @@ http://tv.nousiptv.com:8080/@thundertv/8uJjsjE7362/4028
 http://tv.masterplaytv.club:8080/lycarmen66/KAQSocPFMy/114854
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png",Canal Once
+http://canal-pro.xyz:8080/09sERgio940961/08cuEvAs734820/24905
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4035
 
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2014.png",Canal 14
@@ -133,6 +134,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278447.m3u8
 http://user.tvcluboficial.com/live/m/m/98.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/latino/univision.png",Univision
+http://190.14.10.19:16000/play/a09c/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278686.m3u8
 http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b483eb10a8c99575a9f3a/67.m3u8
 
@@ -151,6 +153,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278524.m3u8
 http://user.tvcluboficial.com/live/m/m/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cartoonito-mx.png",Cartoonito
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/54405
 http://canal-pro.xyz:8080/09sERgio940961/08cuEvAs734820/61603
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278526.m3u8
 
@@ -169,7 +172,7 @@ http://user.tvcluboficial.com/live/m/m/641.m3u8
 http://canal-pro.xyz:8080/09sERgio940961/08cuEvAs734820/61596
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png",Nick 2
-
+http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/9424
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278546.m3u8
 http://user.tvcluboficial.com/live/m/m/645.m3u8
 
