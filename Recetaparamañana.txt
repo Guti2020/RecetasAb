@@ -127,9 +127,11 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/4130
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/unicable-mx.png",Unicable
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278447.m3u8
 http://user.tvcluboficial.com/live/m/m/98.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/latino/univision.png",Univision
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278686.m3u8
 http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b483eb10a8c99575a9f3a/67.m3u8
 
 #EXTINF:-1 tvg-logo="",Adult Swim
@@ -427,12 +429,15 @@ http://user.tvcluboficial.com/live/m/m/189.m3u8
 http://user.tvcluboficial.com/live/m/m/152.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/aymsports.png",AYM Sports
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278562.m3u8
 http://user.tvcluboficial.com/live/m/m/148.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png",Claro Sports
+http://45.186.106.220:5550/play/a03y/index.m3u8
 http://user.tvcluboficial.com/live/m/m/328.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png",Claro Sports 2
+http://45.186.106.220:5550/play/a029/index.m3u8
 http://playtv.one:8080/live/as2cds/3S9ghjnqN8/469053.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DirecTV Sports
