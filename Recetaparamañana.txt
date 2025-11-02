@@ -16,7 +16,8 @@ https://user.tvcluboficial.com/live/m/m/418.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/51343
 https://user.tvcluboficial.com/live/m/m/417.m3u8
 
-#EXTINF:-1 tvg-logo="",Dragon Ball Z F 24/7
+#EXTINF:-1 tvg-logo="",Dos Hombres & Medio 24/7
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279021.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169802
 https://user.tvcluboficial.com/live/m/m/424.m3u8
 
