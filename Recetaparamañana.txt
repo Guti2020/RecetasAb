@@ -8,6 +8,7 @@ http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169799
 https://user.tvcluboficial.com/live/m/m/427.m3u8
 
 #EXTINF:-1 tvg-logo="",Chapulin Colorado 24/7
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279027.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/72328
 https://user.tvcluboficial.com/live/m/m/418.m3u8
 
@@ -24,9 +25,11 @@ http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169803
 https://user.tvcluboficial.com/live/m/m/329.m3u8
 
 #EXTINF:-1 tvg-logo="",El Chavo Del 8 24/7
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279007.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/531614
 
-#EXTINF:-1 tvg-logo="",El Juego Del Calamar 24/7
+#EXTINF:-1 tvg-logo="",Los 3 Chiflados 24/7
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279037.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/236453
 
 #EXTINF:-1 tvg-logo="",Yu-Gi-Oh! 24/7
