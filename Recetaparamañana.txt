@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-logo="",ESPN 2
-http://45.186.106.220:5550/play/a04g/index.m3u8
-
 #EXTINF:-1 tvg-logo="",Caballeros Del Zodiaco 24/7
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169799
 https://user.tvcluboficial.com/live/m/m/427.m3u8
@@ -472,8 +469,7 @@ http://user.tvcluboficial.com/live/m/m/667.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png",ESPN 2
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/185149
-http://canal-pro.xyz:8080/09sERgio940961/08cuEvAs734820/509
+http://45.186.106.220:5550/play/a04g/index.m3u8
 http://177.234.230.206:8011/play/a0kg/index.m3u8
 http://user.tvcluboficial.com/live/m/m/531.m3u8
 
