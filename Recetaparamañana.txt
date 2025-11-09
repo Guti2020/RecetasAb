@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-logo="",ESPN 2
-http://177.234.230.206:8011/play/a01h/index.m3u8
-http://177.234.230.206:8011/play/a0kg/index.m3u8
-https://tyg2mnl9.fubohd.com/universo/mono.m3u8?token=52f6f5e0b72a628f56cc2737282c0502ed4b40b3-e0-1760854199-1760836199
+http://45.186.106.220:5550/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-logo="",Caballeros Del Zodiaco 24/7
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169799
