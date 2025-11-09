@@ -1,3 +1,5 @@
+http://45.186.106.220:5550/play/a02u/index.m3u8
+
 #EXTINF:-1 tvg-logo="",Caballeros Del Zodiaco 24/7
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169799
 https://user.tvcluboficial.com/live/m/m/427.m3u8
