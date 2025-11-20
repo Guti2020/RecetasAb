@@ -555,6 +555,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1116300
 
 #EXTINF:-1 tvg-logo="",Video Rola
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 http://45.228.234.173:9999/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-logo="",VH1
