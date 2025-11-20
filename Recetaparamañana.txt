@@ -82,8 +82,9 @@ http://canal-pro.xyz:8080/09sERgio940961/08cuEvAs734820/24905
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4035
 
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2014.png",Canal 14
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278323.m3u8
-https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1720833303547.png",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
