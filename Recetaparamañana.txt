@@ -340,6 +340,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278452.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner 2
+http://190.14.10.19:16000/play/a06m/index.m3u8
 http://45.186.106.220:5550/play/a036/index.m3u8
 http://148.222.228.3:9000/play/a00e/index.m3u8
 
@@ -386,10 +387,12 @@ http://user.tvcluboficial.com/live/m/m/26.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278623.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoveryturbo.png",Discovery Turbo
+http://45.186.106.220:5550/play/a03u/index.m3u8
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/119670.ts
 http://user.tvcluboficial.com/live/m/m/28.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoveryworld.png",Discovery World
+http://45.186.106.220:5550/play/a04n/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278624.m3u8
 http://user.tvcluboficial.com/live/m/m/187.m3u8
 
