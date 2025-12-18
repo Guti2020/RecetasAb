@@ -96,6 +96,7 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278705.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png",Imagen TV
+http://xcm.budtv-ultra.com:9000/budtv/bud-206134/35e1a2479f/278343.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/64e35aff6b1fdb0008ea8441/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png",Las Estrellas
