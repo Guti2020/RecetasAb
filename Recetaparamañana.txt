@@ -2,12 +2,14 @@
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94912
 https://user.tvcluboficial.com/live/m/m/427.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJYnvqzF/Proyectox-24-7-Juveniles1-6.png",Chapulin Colorado 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJYnvqzF/Proyectox-24-7-Juveniles1-6.png",Chapulin Colorado
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/95639
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279027.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/72328
 https://user.tvcluboficial.com/live/m/m/418.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpNWcDLr/Proyectox-24-7-Juveniles1-4.png",Chespirito
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94990
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/51343
 https://user.tvcluboficial.com/live/m/m/417.m3u8
 
