@@ -24,6 +24,7 @@ http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94897
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Pr#oyectox-24-7-Anime-9.png",Dragon Ball Z - Saga Majin Buu
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94898
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94898
 
 #EXTINF:-1 "tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png",Dragon Ball Super
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94901
