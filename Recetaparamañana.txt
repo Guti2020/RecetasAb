@@ -24,7 +24,6 @@ http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94897
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Pr#oyectox-24-7-Anime-9.png",Dragon Ball Z - Saga Majin Buu
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94898
-http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94898
 
 #EXTINF:-1 "tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png",Dragon Ball Super
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94901
@@ -46,7 +45,7 @@ http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/236453
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png",Yu-Gi-Oh! 24/7
 https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
-#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png",A más +
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png",A más +
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/adn40-mx.png",ADN 40
