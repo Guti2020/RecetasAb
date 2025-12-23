@@ -1,41 +1,48 @@
-#EXTINF:-1 tvg-logo="",Caballeros Del Zodiaco 24/7
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169799
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png",Caballeros Del Zodiaco 24/7
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94912
 https://user.tvcluboficial.com/live/m/m/427.m3u8
 
-#EXTINF:-1 tvg-logo="",Chapulin Colorado 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJYnvqzF/Proyectox-24-7-Juveniles1-6.png",Chapulin Colorado 24/7
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279027.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/72328
 https://user.tvcluboficial.com/live/m/m/418.m3u8
 
-#EXTINF:-1 tvg-logo="",Chespirito 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpNWcDLr/Proyectox-24-7-Juveniles1-4.png",Chespirito
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/51343
 https://user.tvcluboficial.com/live/m/m/417.m3u8
 
-#EXTINF:-1 tvg-logo="",Dos Hombres & Medio 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNgWGRDT/Proyectox-24-7-series-Animacion3-31.png",Dos Hombres & Medio 24/7
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279021.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169802
 https://user.tvcluboficial.com/live/m/m/424.m3u8
 
-#EXTINF:-1 tvg-logo="",Dragon Ball 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png",Dragon Ball
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279024.m3u8
 
-#EXTINF:-1 tvg-logo="",Dragon Ball Super 24/7
+EXTINF:-1 tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png",Dragon Ball Z - Saga Cell
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94897
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png",Dragon Ball Z - Saga Majin Buu
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94898
+
+#EXTINF:-1 "tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png",Dragon Ball Super
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94901
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279025.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169803
 https://user.tvcluboficial.com/live/m/m/329.m3u8
 
-#EXTINF:-1 tvg-logo="",El Chavo Del 8 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0GBbKHN/Proyectox-24-7-Juveniles1-7.png",El Chavo Del 8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279007.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/531614
 
-#EXTINF:-1 tvg-logo="",El Juego Del Calamar 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTYHrR5w/Proyectox-Cinemax2-29.png",El Juego Del Calamar
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94820
 
-#EXTINF:-1 tvg-logo="",Los 3 Chiflados 24/7
+#EXTINF:-1 tvg-logo="",Los 3 Chiflados
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279037.m3u8
 http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/236453
 
-#EXTINF:-1 tvg-logo="",Yu-Gi-Oh! 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png",Yu-Gi-Oh! 24/7
 https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
 #EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png",A más +
