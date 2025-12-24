@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png",Caballeros Del Zodiaco 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png",Caballeros Del Zodiaco
+http://144.217.70.79/VODS-M/1080P/2%20Fast%202%20Furious%202003.mkv
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94912
 https://user.tvcluboficial.com/live/m/m/427.m3u8
 
