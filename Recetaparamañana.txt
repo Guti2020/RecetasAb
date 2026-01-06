@@ -130,7 +130,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278360.m3u8
 http://xpaneltv.com:8080/DaiSeg/987612345/291054
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200441201.png",Pasiones
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278403.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278436.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png",Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
@@ -230,17 +230,21 @@ http://liontv.es:8080/live/9188696216/snj9ze/34d556d9-396d-47db-8a3f-662d075170f
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278462.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinemax.png",Cinemax
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278467.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU",Cine Latino
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
+
+#EXTINF:-1 tvg-logo="",Claro Cinema
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278469.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/de-pelicula-mx.png",De Pelicula
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278458.m3u8
 http://181.78.85.53:9002/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png",De Pelicula Plus
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278470.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/592962c5-d628-4c9a-9582-48abf34cbc7c.ts
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155788
 
@@ -303,7 +307,7 @@ http://181.78.4.250:8098/play/a079/index.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1200683
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/sonychannel.png",Sony
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278405.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278404.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/space.png",Space
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278516.m3u8
@@ -484,10 +488,11 @@ http://user.tvcluboficial.com/live/m/m/259.m3u8
 http://user.tvcluboficial.com/live/m/m/667.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn.png",ESPN
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
+http://190.14.10.19:16000/play/a092/index.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278588.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png",ESPN 2
-http://45.186.106.220:5550/play/a04g/index.m3u8
+http://190.14.10.19:16000/play/a093/index.m3u8
 http://177.234.230.206:8011/play/a0kg/index.m3u8
 http://user.tvcluboficial.com/live/m/m/531.m3u8
 
