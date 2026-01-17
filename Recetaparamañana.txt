@@ -141,6 +141,7 @@ https://s5.mexside.net:1936/telemax/telemax/chunklist_w519701553.m3u8
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/131581.ts
 
 #EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/9/9a/TelemundoInt2018.png",Telemundo
+http://190.14.10.19:16000/play/a09a/index.m3u8
 http://45.186.106.220:5550/play/a00u/index.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEMUNDO/40-hls/live-media.m3u8
 
