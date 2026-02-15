@@ -494,9 +494,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278588.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png",ESPN 2
 https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5NS43Mi41Nw==/20_.m3u8?token=IPshLtYQ1xNpLA8gvCu_xQ&expires=1771223226
-https://zonamovie.pro:443/play/P9h-Bdr6VWtETRy_c-Rr9bKcN3b7zDUePKP5v1wrbuoux84soMKdrMUlHo04vuRD/ts
 http://190.14.10.19:16000/play/a093/index.m3u8
-http://177.234.230.206:8011/play/a0kg/index.m3u8
 http://user.tvcluboficial.com/live/m/m/531.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png",ESPN 3
