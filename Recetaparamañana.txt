@@ -152,6 +152,7 @@ http://45.186.106.220:5550/play/a00u/index.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEMUNDO/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/telenovelas.png",Telenovelas
+http://38.65.175.116:8000/play/a0ng/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278367.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/4130
 
@@ -175,6 +176,7 @@ http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b48
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278392.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png",Baby Tv
+http://38.65.175.116:8000/play/a0b9/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278533.m3u8
 http://user.tvcluboficial.com/live/m/m/7.m3u8
 
@@ -182,6 +184,7 @@ http://user.tvcluboficial.com/live/m/m/7.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278522.m3u8
 
 #EXTINF:-1 tvg-logo="",Boomerang
+http://38.65.175.116:8000/play/a0c1/index.m3u8
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/120297.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",Cartoon Network
@@ -200,6 +203,7 @@ http://189.148.49.233:8000/play/a010/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278538.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png",Disney JR
+http://181.224.200.5:2277/play/a0dm/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278543.m3u8
 http://user.tvcluboficial.com/live/m/m/30.m3u8
 
@@ -221,6 +225,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278545.m3u8
 http://user.tvcluboficial.com/live/m/m/79.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nickelodeon.png",Nickelodeon
+http://38.65.175.116:8000/play/a0am/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278544.m3u8
 
 #EXTINF:-1 tvg-logo="https://fandetda.files.wordpress.com/2010/04/teenick_logo_2005.png",Teen Nick
@@ -259,11 +264,12 @@ http://189.148.49.233:8000/play/a062/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278469.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/de-pelicula-mx.png",De Pelicula
-http://181.78.50.191:7225/play/a0a1
+http://38.65.175.116:8000/play/a0n6/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278458.m3u8
 http://181.78.85.53:9002/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png",De Pelicula Plus
+http://38.65.175.116:8000/play/a0n7/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/592962c5-d628-4c9a-9582-48abf34cbc7c.ts
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155788
@@ -279,12 +285,15 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FXHD/40-hls/live-media.m3u
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-edge-mx.png",Golden Edge
+http://38.65.175.116:8000/play/a0nb/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278480.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-plus-mx.png", Golden Plus
+http://38.65.175.116:8000/play/a0nc/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278484.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-plus-mx.png", Golden Premier
+http://38.65.175.116:8000/play/a0nd/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278486.m3u8
 
 #EXTINF:-1 tvg-logo="",Golden Premier 2
@@ -466,6 +475,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278631.m3u8
 http://user.tvcluboficial.com/live/m/m/67.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png",History 2
+http://38.65.175.116:8000/play/a0dj/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278629.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/natgeo.png",Nat Geo
