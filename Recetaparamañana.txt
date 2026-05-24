@@ -173,11 +173,11 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278686.m3u8
 http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b483eb10a8c99575a9f3a/67.m3u8
 
 #EXTINF:-1 tvg-logo="",Adult Swim
-http://181.176.155.7:8090/play/a1lf/index.m3u8
+http://186.33.25.234:8125/play/a07z/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278392.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png",Baby Tv
-http://38.65.175.116:8000/play/a0b9/index.m3u8
+http://186.33.25.234:8125/play/a036/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278533.m3u8
 http://user.tvcluboficial.com/live/m/m/7.m3u8
 
@@ -209,7 +209,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278543.m3u8
 http://user.tvcluboficial.com/live/m/m/30.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoverykids.png",Discovery Kids
-http://189.148.49.233:8000/play/a00y/index.m3u8
+http://181.224.200.5:2277/play/a00o/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278536.m3u8
 http://user.tvcluboficial.com/live/m/m/641.m3u8
 
@@ -222,11 +222,12 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278546.m3u8
 http://user.tvcluboficial.com/live/m/m/645.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nickjr.png",Nick JR
+http://186.33.25.234:8125/play/a01b/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278545.m3u8
 http://user.tvcluboficial.com/live/m/m/79.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/nickelodeon.png",Nickelodeon
-http://38.65.175.116:8000/play/a0am/index.m3u8
+http://186.33.25.234:8125/play/a05h/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278544.m3u8
 
 #EXTINF:-1 tvg-logo="https://fandetda.files.wordpress.com/2010/04/teenick_logo_2005.png",Teen Nick
@@ -242,13 +243,14 @@ http://venuschiletv.lat:8880/Cuentaoriginal@/BZPmuGNTuEhV/414504
 http://45.228.234.173:9999/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/axn.png",AXN
+http://181.224.200.5:2277/play/a01h/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278386.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/2f1fa5cb-492a-476f-87e3-de0b78198091.ts
 http://181.78.85.53:9002/play/a00n/index.m3u8
 http://liontv.es:8080/live/9188696216/snj9ze/34d556d9-396d-47db-8a3f-662d075170f8.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinecanal.png",Cinecanal
-http://189.148.49.233:8000/play/a02r/index.m3u8
+http://181.224.200.5:2277/play/a013/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278462.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/cinemax.png",Cinemax
@@ -283,10 +285,11 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FXHD/40-hls/live-media.m3u
 
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-mx.png",Golden
+http://181.224.200.5:2277/play/a0do/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-edge-mx.png",Golden Edge
-http://38.65.175.116:8000/play/a0nb/index.m3u8
+http://181.224.200.5:2277/play/a0bd/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278480.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/golden-plus-mx.png", Golden Plus
@@ -340,6 +343,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278325.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278511.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/paramountchannel.png",Paramount
+http://181.224.200.5:2277/play/a0df/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278513.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/paramountchannel.png",Paramount +
@@ -366,6 +370,7 @@ http://189.148.49.233:8000/play/a036/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278518.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png",TNT
+http://186.33.25.234:8125/play/a04r/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278519.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
@@ -400,11 +405,11 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278478.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278452.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
-http://186.33.25.234:8125/play/a0bt/index.m3u8
+http://186.33.25.234:8125/play/a04l/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner 2
-http://186.33.25.234:8125/play/a04l/index.m3u8
+http://181.224.200.5:2277/play/a01g/index.m3u8
 http://190.14.10.19:16000/play/a06m/index.m3u8
 http://45.186.106.220:5550/play/a036/index.m3u8
 http://148.222.228.3:9000/play/a00e/index.m3u8
@@ -424,10 +429,11 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278406.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278407.m3u8
 
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png",A&E
+http://181.224.200.5:2277/play/a01e/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278389.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/animalplanet.png",Animal Planet
-http://189.148.49.233:8000/play/a037/index.m3u8
+http://181.224.200.5:2277/play/a00r/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278617.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/discoverychannel.png",Discovery Channel
@@ -472,14 +478,16 @@ http://user.tvcluboficial.com/live/m/m/187.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278430.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/historychannel.png",History
+http://181.224.200.5:2277/play/a02b/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278631.m3u8
 http://user.tvcluboficial.com/live/m/m/67.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png",History 2
-http://38.65.175.116:8000/play/a0dj/index.m3u8
+http://181.224.200.5:2277/play/a01b/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278629.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/natgeo.png",Nat Geo
+http://181.224.200.5:2277/play/a012/index.m3u8
 http://189.148.49.233:8000/play/a00a/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278637.m3u8
 
