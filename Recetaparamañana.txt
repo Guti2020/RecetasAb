@@ -171,10 +171,7 @@ http://186.33.25.234:8125/play/a07z/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278392.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png",Baby Tv
-http://200.125.170.122:8000/play/a002/index.m3u8
 http://186.33.25.234:8125/play/a036/index.m3u8
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278533.m3u8
-http://user.tvcluboficial.com/live/m/m/7.m3u8
 
 #EXTINF:-1 tvg-logo="",BitMe
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278522.m3u8
