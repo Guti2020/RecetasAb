@@ -147,6 +147,7 @@ http://45.186.106.220:5550/play/a00u/index.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEMUNDO/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/telenovelas.png",Telenovelas
+http://181.78.8.199:8000/play/a0ar/index.m3u8
 http://190.14.10.19:16000/play/a09r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724200945319.png",TVP Obregon
