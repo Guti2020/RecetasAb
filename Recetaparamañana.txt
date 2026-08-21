@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJYnvqzF/Proyectox-24-7-Juveniles1-6.png",Warner Act
+
 http://181.78.8.199:8000/play/a0ia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpNWcDLr/Proyectox-24-7-Juveniles1-4.png",Chespirito
@@ -257,12 +258,13 @@ http://190.119.43.180:8000/play/a0t1/index.m3u8
 http://190.14.10.19:16000/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png",HBO
-https://streamer.metronethn.com/HBO2/playlist.m3u8
+https://streamer.metronethn.com/HBO/playlist.m3u8
 http://189.148.49.233:8000/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-logo="-",HBO +
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png",HBO 2
+https://streamer.metronethn.com/HBO2/playlist.m3u8
 http://190.14.10.19:16000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/789245.png",HBO Family
@@ -275,7 +277,6 @@ http://190.83.85.68:80/hbo_mundi/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO Plus
 https://streamer.metronethn.com/HBOPlus/playlist.m3u8
 http://190.83.85.68:80/hbo_plus/index.m3u8
-http://190.14.10.19:16000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="",HBO Pop
 http://190.83.85.68:80/hbo_pop/index.m3u8
@@ -301,6 +302,7 @@ http://181.224.200.5:2277/play/a0df/index.m3u8
 http://181.78.4.250:8098/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/sonychannel.png",Sony
+https://streamer.metronethn.com/SONY/index.m3u8
 http://181.78.8.199:8000/play/a0e6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/space.png",Space
@@ -321,12 +323,12 @@ http://189.148.49.233:8000/play/a036/index.m3u8
 https://streamer.metronethn.com/TNT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
+https://streamer.metronethn.com/TNT_NOVELAS/playlist.m3u8
 http://186.33.25.234:8125/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/tntseries.png",TNT Series
+https://streamer.metronethn.com/TNT_Series/index.m3u8
 http://190.14.10.19:16000/play/a07x/index.m3u8
-http://181.78.4.250:8098/play/a061/index.m3u8
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNTSERIES/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/universalchannel.png",Universal Channel
 http://181.78.8.199:8000/play/a09t/index.m3u8
@@ -489,28 +491,25 @@ http://user.tvcluboficial.com/live/m/m/259.m3u8
 http://user.tvcluboficial.com/live/m/m/667.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn.png",ESPN
-http://190.83.85.68:80/espn/index.m3u8
+https://streamer.metronethn.com/espn/playlist.m3u8
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png",ESPN 2
-http://190.83.85.68:80/espn2/index.m3u8
 http://181.78.8.199:8000/play/a0b2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png",ESPN 3
-http://190.83.85.68:80/espn3/index.m3u8
+https://streamer.metronethn.com/espn3/playlist.m3u8
 http://181.78.8.199:8000/play/a0b3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png",ESPN 4
+https://streamer.metronethn.com/espn4/playlist.m3u8
 http://190.83.85.68:80/espn4/index.m3u8
 http://181.78.8.199:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png",ESPN Premium
-http://190.119.43.180:8000/play/a0yz/index.m3u8
-http://189.148.49.233:8000/play/a01n/index.m3u8
-https://tvpass.org/live/espn-deportes/hd
+https://streamer.metronethn.com/espn5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326546231.png",Fox Sports
-
 http://190.14.10.19:16000/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1721326292304.png",Fox Sports 2
@@ -529,9 +528,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278598.m3u8
 http://norfujh.top:8080/11169502464600/81695024646325/52606
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",TUDN
-http://190.14.10.19:16000/play/a09v/index.m3u8
-http://189.148.49.233:8000/play/a06l/index.m3u8
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278559.m3u8
+https://streamer.metronethn.com/TUDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",TUDN USA
 http://user.tvcluboficial.com/live/m/m/86.m3u8
@@ -553,8 +550,7 @@ http://tv.nstvlatino.com:8080/johnberrios1/55778899/1156059
 http://45.228.234.173:9999/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mtv.png",MTV
-https://user.tvcluboficial.com/live/m/m/828.m3u8
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278611.m3u8
+https://streamer.metronethn.com/MTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/mtvhits.png",MTV Hits
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278602.m3u8
@@ -566,7 +562,7 @@ http://181.78.85.53:9002/play/a01i/index.m3u8
 http://tv.nstvlatino.com:8080/johnberrios1/55778899/1156060
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724891939366.png",Telehit
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278613.m3u8
+https://streamer.metronethn.com/Telehit/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://btv.mx/posters/1724891939366.png",Telehit Plus
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278612.m3u8
