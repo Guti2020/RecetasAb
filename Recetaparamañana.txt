@@ -2,40 +2,27 @@
 http://181.78.8.199:8000/play/a0ia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpNWcDLr/Proyectox-24-7-Juveniles1-4.png",Chespirito
-http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94990
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/51343
-https://user.tvcluboficial.com/live/m/m/417.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNgWGRDT/Proyectox-24-7-series-Animacion3-31.png",Dos Hombres & Medio 24/7
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279021.m3u8
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169802
-https://user.tvcluboficial.com/live/m/m/424.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png",Dragon Ball
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279024.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png",Dragon Ball Z - Saga Cell
-http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94897
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Pr#oyectox-24-7-Anime-9.png",Dragon Ball Z - Saga Majin Buu
-http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94898
+
 
 #EXTINF:-1 "tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png",Dragon Ball Super
-http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94901
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279025.m3u8
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/169803
-https://user.tvcluboficial.com/live/m/m/329.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0GBbKHN/Proyectox-24-7-Juveniles1-7.png",El Chavo Del 8
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279007.m3u8
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/531614
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTYHrR5w/Proyectox-Cinemax2-29.png",El Juego Del Calamar
-http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/94820
 
 #EXTINF:-1 tvg-logo="",Los 3 Chiflados
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279037.m3u8
-http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/236453
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png",Yu-Gi-Oh! 24/7
 https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
@@ -373,19 +360,15 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278478.m3u8
 http://181.78.8.199:8000/play/a09x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
+http://181.78.8.199:8000/play/a0ia/index.m3u8
 http://186.33.25.234:8125/play/a04l/index.m3u8
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner 2
 http://181.224.200.5:2277/play/a01g/index.m3u8
 http://190.14.10.19:16000/play/a06m/index.m3u8
-http://45.186.106.220:5550/play/a036/index.m3u8
-http://148.222.228.3:9000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/filmarts.png",Film & Arts
 http://200.125.170.122:8000/play/a02y/index.m3u8
-http://177.234.230.206:8011/play/a0b8/index.m3u8
-http://177.234.230.206:8011/play/a0i8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/mexico/syfy.png",SYFY
 http://177.234.230.206:8011/play/a09n/index.m3u8
